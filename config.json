@@ -1,0 +1,16 @@
+{
+  "name": "BadgerFleet Scheduler",
+  "supportEmail": "jreid@badgerfleet.com",
+  "version": "0.1",
+  "items": [
+    {
+      "icon": "",
+      "url": "",
+      "path": "BadgerFleetSolutions/",
+      "menuName": {
+        "en": "Scheduler"
+      }
+    }
+  ],
+  "isSigned": false
+}
